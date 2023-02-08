@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt-server",
+  "version": "1.0.0",
+  "description": "ChatGPT But better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loeasy68/enhanced-gpt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loeasy68/enhanced-gpt/issues"
+  },
+  "homepage": "https://github.com/loeasy68/enhanced-gpt#readme"
+}
